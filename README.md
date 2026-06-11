@@ -17,4 +17,4 @@ Se quiser trocar uma ideia sobre tecnologia:
 
 **Fun Facts:**
 * 🏋️‍♂️ Focado na rotina de treinos e academia (gym)
-* 🎮 Gamer nas horas vagas
+* 🎮 Jogo nas horas vagas
