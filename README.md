@@ -1,6 +1,6 @@
 ### Opa! 🙋‍♂️
 
-Sou o João Victor, estudante de Engenharia de Software baseado no Rio de Janeiro.
+Me chamo João, estudante de Engenharia de Software baseado no Rio de Janeiro.
 
 Atualmente estou focado em aprender os fundamentos da computação, construir lógica sólida e explorar diferentes vertentes do desenvolvimento de software. Se tenho um problema complexo ou um desafio pela frente, sento e programo até encontrar uma solução eficiente.
 
